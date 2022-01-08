@@ -37,6 +37,7 @@ Enter your iOS app ID in the `ios_app_id` field and commit your changes. Your si
 You can go on with customising almost anything in the `_config.yml` file. 
 
 Things you can customise in `_config.yml`:
+
 - App Name
 - App Icon
 - App Description
@@ -91,23 +92,6 @@ If you need to, you can create additional markdown based pages just by creating 
 **Please note:** The Privacy Policy and Changelog provided are written using dummy text, so please adapt each of them for your own app.
 You can also choose not to include these pages, by simple deleting the `privacypolicy.md` and `CHANGELOG.md` files.
 
-
-
-
-## Feedback
-If you have feedback regarding bugs or improvements, open an issue, @ me on Twitter or write me an email. You can find my contact info on my website.
-
-I'd love to see the sites you create using this little tool.
-
-## Credits
-- [Jekyll](https://github.com/jekyll/jekyll)
-- [FontAwesome](https://fontawesome.github.io/Font-Awesome/)
-
-## Donations
-[Donations are welcome](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S8ZZT3JXJPN92&currency_code=USD&source=url)
-
-## Author
-[Emil Baehr](https://emilbaehr.com/)
 
 ## License
 [MIT License](LICENSE)
